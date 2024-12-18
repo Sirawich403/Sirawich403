@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sirawich kredchana You can call me Fix</h1>
-<h3 align="cemter">3rd year student of Maejo University Faculty of Science Major Computer Science  Looking for an internship that will improve my programming skills</h3>
+<h2 align="center">Internship Objective
+A motivated and detail-oriented 3rd-year Computer Science student at Maejo University seeking an internship opportunity to apply programming, problem-solving, and teamwork skills in a dynamic and professional environment.</h2>
 <h3 align="center">UX/UI Designer / Data analyst / Front-End Developer</h3>
 
-- 👨‍💻 My project [https://tasknotes888.netlify.app/?fbclid=IwZXh0bgNhZW0CMTAAAR04GjcOOa8WxC8F9BqfGmct-0xA_SFZeQJxZ8t-BNq_tbOLnMpMWRHbDkw_aem_X3HZzpt7f1eRCMO0rCoAlg](https://tasknotes888.netlify.app/?fbclid=IwZXh0bgNhZW0CMTAAAR04GjcOOa8WxC8F9BqfGmct-0xA_SFZeQJxZ8t-BNq_tbOLnMpMWRHbDkw_aem_X3HZzpt7f1eRCMO0rCoAlg)
+- 👨‍💻 My project [https://tasknotes888.netlify.app/](https://tasknotes888.netlify.app/)
 
 - 📫 My email **sirawich.kredchana@gmail.com**
 
