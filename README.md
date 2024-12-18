@@ -6,7 +6,7 @@ A motivated and detail-oriented 3rd-year Computer Science student at Maejo Unive
 - 👨‍💻 My project [https://tasknotes888.netlify.app/](https://tasknotes888.netlify.app/)
 
 - 📫 My email **sirawich.kredchana@gmail.com**
-- My resume [https://www.canva.com/design/DAGZoSYJ-eg/B2BqACqCOFnfdsC1raLlzQ/edit](https://www.canva.com/design/DAGZoSYJ-eg/B2BqACqCOFnfdsC1raLlzQ/edit)
+- My resume [https://www.canva.com/design/DAGZoSYJ-eg/OLJ4DBlsf4fs3IHdX1qzEA/view?utm_content=DAGZoSYJ-eg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hffe43f0516]([https://www.canva.com/design/DAGZoSYJ-eg/B2BqACqCOFnfdsC1raLlzQ/edit](https://www.canva.com/design/DAGZoSYJ-eg/OLJ4DBlsf4fs3IHdX1qzEA/view?utm_content=DAGZoSYJ-eg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hffe43f0516))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
