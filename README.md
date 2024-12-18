@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sirawich kredchana You can call me Fix</h1>
+<h2 align="cemter">3rd year student of Maejo University Faculty of Science Computer Science major Looking for an internship that will improve my programming skills</h2>
 <h3 align="center">UX/UI Designer / Data analyst / Front-End Developer</h3>
 
 - 👨‍💻 My project [https://tasknotes888.netlify.app/?fbclid=IwZXh0bgNhZW0CMTAAAR04GjcOOa8WxC8F9BqfGmct-0xA_SFZeQJxZ8t-BNq_tbOLnMpMWRHbDkw_aem_X3HZzpt7f1eRCMO0rCoAlg](https://tasknotes888.netlify.app/?fbclid=IwZXh0bgNhZW0CMTAAAR04GjcOOa8WxC8F9BqfGmct-0xA_SFZeQJxZ8t-BNq_tbOLnMpMWRHbDkw_aem_X3HZzpt7f1eRCMO0rCoAlg)
